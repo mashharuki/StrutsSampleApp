@@ -13,7 +13,7 @@
         <!-- 入力フォームはStruts2のタグを使用します -->
         <s:form action="hello">
             <s:textfield name="name" />
-            <s:submit value="HelloWorldページへ行く" />
+            <s:submit value="HelloWorldページへ行きます。" />
         </s:form>
     </body>
 </html>
